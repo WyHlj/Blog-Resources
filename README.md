@@ -1,0 +1,2 @@
+# Blog-Resources
+jsdelivr CDN
